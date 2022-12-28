@@ -1,0 +1,11 @@
+challenges in ml life cycle:
+
+
+1. data-gathering->data analysis->feature enginnering->model buils->model ebaluation
+2. image.png
+
+ci-cd ppeline:
+--> test, build->pacakge(required dependences),  publish
+-->package(*image,pacakge,executable )
+
+monitering -> promethus, grafana is used
