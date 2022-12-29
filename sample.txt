@@ -9,3 +9,28 @@ ci-cd ppeline:
 -->package(*image,pacakge,executable )
 
 monitering -> promethus, grafana is used
+
+mlops platfporm requirments:
+1>data gathering
+2>data,code verssioning
+3>experimentation
+4>hyparameter tuning
+5>distrubuted training -- cicd 
+6>auto ml
+7>deployement -docker ,kunernates
+8>model registry-accuracy,artifacts,peformance metrics,training data.model type,hyper parametrs
+9>feature store -
+10>monierting - tools used for monirot-grafana,promotheus
+10>governance
+11>compliance audit services
+
+
+tools:
+mlflow --> experimemtation,tracing,testing tuning,deployement
+kubflow -->data gathering, experimemtation,tracing,testing tuning,deployement
+
+
+which platform have to choose:
+
+managed- aws sagmaker
+unmanaged- mlfolw,kubeflow
